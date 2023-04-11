@@ -1,0 +1,5 @@
+/__init__.py
+/venv/
+/tests/__init__.py
+/com.txt
+/.coverage
